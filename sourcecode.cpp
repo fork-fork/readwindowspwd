@@ -1,10 +1,10 @@
 /***************************************************************
 *版本：1.1
 *开发环境：Visual Studio 2012
-*修改日期：2017-04-09
+*修改日期：2017-05-19
 *作者：FIFCOM
-*Email：fifcom.cn@gmail.com
-*(C) 2017 FIFCOM Allrights Reserved.
+*Email：fifcom.cn@gmail.com / 1280874899@qq.com
+*(C) 2017 FIFCOM All Rights Reserved.
 ****************************************************************/
 #include "stdafx.h"
 
@@ -404,3 +404,4 @@ void CopyKeyGlobalData(HANDLE hProcess, LPVOID hModlsasrv, int osKind)
 }
  
 // -- BY FIFCOM -- //
+// Thank you for watch.
